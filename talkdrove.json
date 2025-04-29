@@ -6,7 +6,7 @@
   "documentation-link": "https://pairing.giftedtech.web.id",
   "owner-verification":"jemmimaonyango@gmail.com",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Gifted~q3JAKKpYQ5k40QqSSJhH
       "description": "Must Start with 'Gifted~'",
       "required": true,
       "value": ""
@@ -21,42 +21,42 @@
       "required": true,
       "value": "Gifted Tech"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {0775921987
       "description": "Put only one Owner Number Here",
       "required": true,
       "value": "254715206562"
     },
-    "ANTI_DELETE": {
+    "ANTI_DELETE": {on
       "description": "Put true/inboxonly/allchats/false",
       "required": false,
       "value": "false"
     },
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {on
       "description": "Make it true/false",
       "required": true,
       "value": "true"
     },
-    "AUTO_LIKE_STATUS": {
+    "AUTO_LIKE_STATUS": {on
       "description": "Make it true/false",
       "required": false,
       "value": "true"
     },
-    "AUTO_LIKE_EMOJIS": {
+    "AUTO_LIKE_EMOJIS": {of
       "description": "Your custom status like emoji(s)",
       "required": false,
       "value": "💜,💛,❤️,🤍,🖤,💙"
     },
-    "AUTO_REPLY_STATUS": {
+    "AUTO_REPLY_STATUS": {of
       "description": "Make it true/false",
       "required": false,
       "value": ""
     },
-    "STATUS_REPLY_MSG": {
+    "STATUS_REPLY_MSG": {of
       "description": "Set your status reply message to be sent after bot views status",
       "required": false,
       "value": "Status Viewed ✅️"
     },
-    "AUTO_READ_MESSAGES": {
+    "AUTO_READ_MESSAGES": {of
       "description": "Make it true/commands/false",
       "required": false,
       "value": ""
@@ -141,7 +141,7 @@
       "required": false,
       "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜"
     },
-    "PREFIX": {
+    "PREFIX": {.
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
       "required": true,
       "value": "."
